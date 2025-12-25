@@ -1,0 +1,26 @@
+{
+  "name": "test_server",
+  "version": "1.0.0",
+  "description": "chaim parzan",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaimfrazan/test_server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/chaimfrazan/test_server/issues"
+  },
+  "homepage": "https://github.com/chaimfrazan/test_server#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
