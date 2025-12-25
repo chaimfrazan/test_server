@@ -1,0 +1,23 @@
+[
+  {
+    "eventName": "showFootball",
+    "ticketsForSale": 10,
+    "username": "moshe",
+    "password": "3010"
+  },
+  {
+    "eventName": "park",
+    "ticketsForSale": 10,
+    "username": "moshe",
+    "password": "3010"
+  },
+  {
+    "findEvent": {
+      "eventName": "showFootball",
+      "ticketsForSale": 10,
+      "username": "moshe",
+      "password": "3010"
+    },
+    "ticketsForSale": 8
+  }
+]
